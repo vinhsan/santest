@@ -1,0 +1,5 @@
+{
+    "require": {
+        "kenwheeler/slick": "^1.6"
+    }
+}
